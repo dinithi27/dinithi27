@@ -1,6 +1,6 @@
 [![MasterHead](https://tenor.com/view/stars-night-sky-black-shine-gif-10216891)]
 <h1 align="center">Hi 👋, I'm Dinithi Mendis</h1>
-<p align="left"><img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FS59bPkT0pqcAAAAC%2Fprogramming.gif&tbnid=SS1GkdNnlHNJqM&vet=12ahUKEwjoudnmxoSBAxWSpekKHSYMAMYQMygLegQIARB6..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fprogramming-gif-25868426&docid=3g8g6-RBzQfWoM&w=498&h=373&q=animated%20coding%20gif%20girl&ved=2ahUKEwjoudnmxoSBAxWSpekKHSYMAMYQMygLegQIARB6" alt="Dinithi Mendis"></p>
+<p align="left"><img align="right" alt="Coding" width="400" src="[https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FS59bPkT0pqcAAAAC%2Fprogramming.gif&tbnid=SS1GkdNnlHNJqM&vet=12ahUKEwjoudnmxoSBAxWSpekKHSYMAMYQMygLegQIARB6..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fprogramming-gif-25868426&docid=3g8g6-RBzQfWoM&w=498&h=373&q=animated%20coding%20gif%20girl&ved=2ahUKEwjoudnmxoSBAxWSpekKHSYMAMYQMygLegQIARB6](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FS59bPkT0pqcAAAAC%2Fprogramming.gif&tbnid=SS1GkdNnlHNJqM&vet=12ahUKEwjoudnmxoSBAxWSpekKHSYMAMYQMygLegQIARB6..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fprogramming-gif-25868426&docid=3g8g6-RBzQfWoM&w=498&h=373&q=animated%20coding%20gif%20girl&ved=2ahUKEwjoudnmxoSBAxWSpekKHSYMAMYQMygLegQIARB6)" alt="Dinithi Mendis"></p>
 
 - 💼 I’m **an software engineering undergraduate at SLIIT**
 
